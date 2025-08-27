@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+*.key
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Envs
+.venv/
+venv/
